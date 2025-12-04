@@ -8,7 +8,8 @@ Overall, it makes my work more efficient and improves the reliability of the sys
 ## What can I monitor?
 
 ### 1) Alerts
-![Alt text](https://github.com/venuGanes/Network-Support-Executive/blob/b6c70667b93077c44770cf31dd387dddea396b47/Monitoring%20tools%20hands-on/2)%20Group%20nodes%20according%20to%20sites.png)
+![Group nodes according to sites](https://github.com/venuGanes/Network-Support-Executive/blob/b6c70667b93077c44770cf31dd387dddea396b47/Monitoring%20tools%20hands-on/2)%20Group%20nodes%20according%20to%20sites.png?raw=true)
+
 
 ### 2) Group nodes according to the company
 
